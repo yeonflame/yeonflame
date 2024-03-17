@@ -6,13 +6,24 @@
   "cover": "https://i.imgur.com/NpKJSBg.jpeg",
   "chapters": {
     "0": {
-      "title": "0 - Prologue",
+      "title": "Prologue",
       "volume": "1",
       "last_updated": "1710646573",
       "groups": {
         "yeonflame": [
           "https://i.imgur.com/p7h3fh7.png",
           "https://i.imgur.com/gMQ36wT.png"
+        ]
+      }
+    },
+    "1": {
+      "title": "1F - Headon's Floor",
+      "volume": "1",
+      "last_updated": "1710647713",
+      "groups": {
+        "yeonflame": [
+          "https://i.imgur.com/p7h3fh7.png",
+          "https://imgur.com/a/JKcT2Nt"
         ]
       }
     }
